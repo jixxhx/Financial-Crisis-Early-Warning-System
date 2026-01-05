@@ -2,5 +2,6 @@ streamlit
 pandas
 numpy
 matplotlib
-scikit-learn
-yfinance
+scikit-learn==1.8.0
+yfinance>=0.2.40
+joblib
